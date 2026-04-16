@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+pandas
+geopandas
+shapely
+openpyxl
+xlrd
+anthropic
+python-multipart
+python-dotenv
+pytest
+httpx
